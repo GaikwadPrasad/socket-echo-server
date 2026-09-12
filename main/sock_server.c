@@ -12,8 +12,8 @@
 #include "esp_wifi.h"
 #include "esp_event.h"
 
-#define WIFI_SSID "<WIFI_SSID>"
-#define WIFI_PASSWORD "<PASSWORD>"
+#define WIFI_SSID "WIFI_SSID"
+#define WIFI_PASSWORD "PASSWORD"
 #define PORT 8080
 
 static const char *TAG = "Socket_Server";
